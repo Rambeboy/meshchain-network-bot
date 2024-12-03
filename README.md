@@ -40,19 +40,28 @@ This repository contains scripts for automating tasks such as user registration,
    ```bash
    git clone https://github.com/Rambeboy/meshchain-network-bot.git && cd meshchain-network-bot
    ```
+
 2. install dependencies:
    ```bash
    npm install
    ```
+
 3. Configure your accounts:
    ```bash
    cp accounts/token_tmp.js token.txt && cp accounts/unique_id_tmp.js unique_id.txt
    ```
-   4. Register account:
+
+4. Register account:
    ```bash
    npm run register
    ```
-5. Run the bot:
+
+5. Run auto register accounts:
+   ```bash
+   npm run autoreg
+   ```
+
+6. Run the bot:
    ```bash
    npm run start
    ```
