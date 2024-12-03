@@ -1,0 +1,1 @@
+Stores unique IDs for linked nodes each line 1 accounts.
