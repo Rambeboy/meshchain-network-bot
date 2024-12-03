@@ -2,13 +2,13 @@
 
 MeshChain is a decentralized network designed to provide affordable, scalable compute power for AI workloads. We address the high costs and limited access to AI resources, making it easier for everyone to contribute and benefit from the power of AI.
 
-- [https://app.meshchain.ai/](https://app.meshchain.ai)
+[https://app.meshchain.ai](https://app.meshchain.ai)
 
 ![mesh](assets/image.png)
 
 ### Meshchain Automation Script
 
-- Solve captcha using anti-captcha [https://anti-captcha.com/](https://anti-captcha.com/)
+Solve captcha using anti-captcha [https://anti-captcha.com/](https://anti-captcha.com/)
 
 This repository contains scripts for automating tasks such as user registration, email verification, claiming rewards, and starting mining on MeshChain.
 
@@ -22,8 +22,9 @@ This repository contains scripts for automating tasks such as user registration,
 
 ## Prerequisite
 
-- Node.js (v16 or higher)
-- New mail for each account (for email verification and claim faucet bnb)
+- Git
+- Node.js (v16 or higher).
+- New mail for each account (for email verification and claim faucet bnb).
 - 1 account only can link with 1 nodeId so if you want farm it create multiple accounts.
 
 ## Setup
