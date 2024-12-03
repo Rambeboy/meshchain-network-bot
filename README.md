@@ -56,25 +56,19 @@ This repository contains scripts for automating tasks such as user registration,
    npm run register
    ```
 
-5. Run auto register accounts:
-   ```bash
-   npm run autoreg
-   ```
-
-6. Run the bot:
+5. Run the bot:
    ```bash
    npm run start
    ```
 
 ## Additional Features:
 
-- **Auto Register And Verify Using Temp Mail**
+**Auto Register And Verify Using Temp Mail**
+```bash
+npm run autoreg
+```
 
-  ```bash
-  npm run autoreg
-  ```
-
-  ![auto register](image-2.png)
+![auto register](assets/image-2.png)
   
 
 ## LICENSE
